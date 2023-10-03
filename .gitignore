@@ -11,7 +11,7 @@
 *.jpg
 
 # To ignore others
-Tau_quantification/__pycache__/
+*/__pycache__/
 
-Tau_quantification/.ipynb_checkpoints/
-Tau_quantification/.vscode/
+*/.ipynb_checkpoints/
+*/.vscode/
