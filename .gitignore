@@ -10,5 +10,8 @@
 # To ignore all .jpg
 *.jpg
 
-# To ignore pycache
+# To ignore others
 Tau_quantification/__pycache__/
+
+Tau_quantification/.ipynb_checkpoints/
+Tau_quantification/.vscode/
