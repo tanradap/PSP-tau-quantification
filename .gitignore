@@ -9,3 +9,6 @@
 
 # To ignore all .jpg
 *.jpg
+
+# To ignore pycache
+Tau_quantification/__pycache__/
